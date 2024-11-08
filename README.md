@@ -1,7 +1,7 @@
 # Mental Health and Technology Usage Dataset
 
 **Author:** Sangita Das  
-**Source:** [Kaggle - Mental Health & Technology Usage Dataset](#)  
+**Source:** [Kaggle - Mental Health & Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset/code?datasetId=5649662&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
 
 ## Introduction
 In today’s digital age, technology has become an integral part of daily life, impacting various aspects of individual well-being. This dataset examines the intersection between technology usage and mental health by exploring behavioral patterns and their connections with mental health indicators. The primary objective of this dataset is to help understand how factors like social media engagement, screen time, and gaming relate to mental health outcomes, stress levels, and sleep quality. As mental health awareness becomes increasingly important, this dataset aims to provide insights into the influence of digital habits on wellness.
