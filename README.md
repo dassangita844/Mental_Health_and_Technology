@@ -1,4 +1,4 @@
-# Mental Health and Technology Usage Dataset
+# Mental Health and Technology 
 
 **Author:** Sangita Das  
 
