@@ -1,7 +1,8 @@
 # Mental Health and Technology 
 
-**Author:** Sangita Das  
-**Source:** [Kaggle - Mental Health & Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset/code?datasetId=5649662&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+Sangita Das  
+e-mail address: dassangita844@gmail.com
+
 
 ## Introduction
 In today’s digital age, technology has become an integral part of daily life, impacting various aspects of individual well-being. This dataset examines the intersection between technology usage and mental health by exploring behavioral patterns and their connections with mental health indicators. The primary objective of this dataset is to help understand how factors like social media engagement, screen time, and gaming relate to mental health outcomes, stress levels, and sleep quality. As mental health awareness becomes increasingly important, this dataset aims to provide insights into the influence of digital habits on wellness.
@@ -12,7 +13,7 @@ In today’s digital age, technology has become an integral part of daily life, 
 3. **Build Predictive Models for Mental Health Trends:** Develop predictive models that offer insights into mental health trends based on technology usage.
 
 ## Dataset Description
-This dataset contains **10,000 rows** and **14 columns** that capture a range of variables related to technology use and mental health outcomes. Below is a detailed description of each variable:
+This dataset is publicly available on Kaggle and can be accessed via the following link: [Kaggle - Mental Health & Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset/data). It contains **10,000 rows** and **14 columns** that capture a range of variables related to technology use and mental health outcomes. Below is a detailed description of each variable:
 
 | Variable                  | Description                                                                                       |
 |---------------------------|---------------------------------------------------------------------------------------------------|
