@@ -66,7 +66,7 @@ The dataset used for this study is publicly available on Kaggle and can be acces
 
 ## **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dassangita844/Mental_Health_and_Technology/blob/main/LICENSE) file for details.
 
 ## **Contact Information**
 
