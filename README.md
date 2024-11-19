@@ -1,43 +1,75 @@
-# Mental Health and Technology 
+# **The Impact of Digital Technology on Mental Well-being**
 
-Sangita Das  
-e-mail address: dassangita844@gmail.com
+## **Introduction**
 
+This project explores the intersection of digital technology usage and its impact on mental health. In an era where technology has become an integral part of everyday life, understanding its relationship with mental health is crucial. This dataset provides insights into how various digital habits, such as social media engagement, screen time, and gaming, are linked to mental health outcomes such as stress levels, sleep quality, and overall mental well-being.
 
-## Introduction
-In today’s digital age, technology has become an integral part of daily life, impacting various aspects of individual well-being. This dataset examines the intersection between technology usage and mental health by exploring behavioral patterns and their connections with mental health indicators. The primary objective of this dataset is to help understand how factors like social media engagement, screen time, and gaming relate to mental health outcomes, stress levels, and sleep quality. As mental health awareness becomes increasingly important, this dataset aims to provide insights into the influence of digital habits on wellness.
+The goal of this study is to analyze patterns in technology usage and identify behavioral factors that may influence mental health. By examining these associations, we aim to build predictive models to better understand mental health trends and raise awareness of the effects of technology on wellness.
 
-## Objectives
-1. **Analyze the Relationship Between Technology and Mental Health:** Examine correlations between daily technology use (e.g., hours spent on social media, gaming, and screen time) and mental health indicators like mental health status, stress, and sleep quality.
-2. **Identify Behavioral Patterns Influencing Wellness:** Study patterns such as physical activity, access to support systems, and the impact of work environments on mental health.
-3. **Build Predictive Models for Mental Health Trends:** Develop predictive models that offer insights into mental health trends based on technology usage.
+## **Objectives**
 
-## Dataset Description
-This dataset is publicly available on Kaggle and can be accessed via the following link: [Kaggle - Mental Health & Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset/data). It contains **10,000 rows** and **14 columns** that capture a range of variables related to technology use and mental health outcomes. Below is a detailed description of each variable:
+- **Analyze the Relationship Between Technology and Mental Health:**  
+  We aim to explore correlations between daily technology use (e.g., social media, screen time, gaming) and key mental health indicators such as stress levels, mental health status, and sleep quality.
+  
+- **Identify Behavioral Patterns Influencing Wellness:**  
+  This study will investigate how factors such as physical activity, access to support systems, and work environment influence mental health.
 
-| Variable                  | Description                                                                                       |
-|---------------------------|---------------------------------------------------------------------------------------------------|
-| `User_ID`                 | A unique identifier for each participant.                                                         |
-| `Age`                     | Participant's age.                                                                                |
-| `Gender`                  | Categorical variable indicating gender, with options: male, female, and other.                    |
-| `Technology_Usage_Hours`  | Average daily time spent on technology, measured in hours.                                        |
-| `Social_Media_Usage_Hours`| Average daily time spent on social media, measured in hours.                                      |
-| `Gaming_Hours`            | Average daily time spent on online gaming, measured in hours.                                     |
-| `Screen_Time_Hours`       | Total average daily screen time, measured in hours.                                               |
-| `Mental_Health_Status`    | Self-reported mental health status, categorized as: poor, fair, good, and excellent.              |
-| `Stress_Level`            | Self-reported stress level, divided into three categories: low, medium, and high.                 |
-| `Sleep_Hours`             | Average daily sleep duration, measured in hours.                                                  |
-| `Physical_Activity_Hours` | Average daily physical activity duration, measured in hours.                                      |
-| `Support_Systems_Access`  | Binary variable indicating access to support systems (yes or no).                                 |
-| `Work_Environment_Impact` | Self-reported impact of work environment on mental health, categorized as: positive, neutral, or negative. |
-| `Online_Support_Usage`    | Binary variable indicating whether the participant uses online support (yes or no).               |
+- **Build Predictive Models for Mental Health Trends:**  
+  Using the dataset, we aim to create models that predict mental health trends based on the usage of digital technology, helping to better understand its impact.
 
-## Usage
-This dataset serves as a foundation for analyzing the influence of digital habits on mental health, supporting research and the development of predictive models in this critical area. With these data, researchers and analysts can:
+## **Dataset Information**
 
-- Analyze trends in digital engagement and mental health.
-- Identify patterns that might influence mental well-being.
-- Create models to predict mental health outcomes based on behavioral patterns.
+The dataset used for this study is publicly available on Kaggle and can be accessed via the following link:  
+[Kaggle - Mental Health & Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset/data)
 
-## License
-This dataset is made publicly available on Kaggle for research and educational purposes.
+- **Total Rows:** 10,000  
+- **Total Columns:** 14  
+- **Data Types:** Numerical and Categorical variables  
+- **Dataset Format:** CSV
+
+## **Variables**
+
+### **Numerical Variables:**
+
+| **Variable Name**           | **Description**                                            |
+|-----------------------------|------------------------------------------------------------|
+| Age                         | Age of the participant.                                   |
+| Technology_Usage_Hours      | Average daily hours spent on technology.                   |
+| Social_Media_Usage_Hours    | Average daily hours spent on social media.                 |
+| Gaming_Hours                | Average daily hours spent on online gaming.                |
+| Screen_Time_Hours           | Total daily screen time in hours.                          |
+| Sleep_Hours                 | Average daily sleep duration in hours.                     |
+| Physical_Activity_Hours     | Average daily physical activity in hours.                  |
+
+### **Categorical Variables:**
+
+| **Variable Name**           | **Description**                                            |
+|-----------------------------|------------------------------------------------------------|
+| User_ID                     | Unique identifier for each participant.                    |
+| Gender                      | Gender of the participant (male, female, or other).        |
+| Mental_Health_Status        | Self-reported mental health status (poor, fair, good, excellent). |
+| Stress_Level                | Self-reported stress level (low, medium, high).            |
+| Support_Systems_Access      | Whether the participant has access to support systems (yes/no). |
+| Work_Environment_Impact     | Impact of work environment on mental health (positive, neutral, negative). |
+| Online_Support_Usage       | Whether the participant uses online support (yes/no).      |
+
+### **Analysis Steps:**
+- Perform exploratory data analysis (EDA) to understand trends and patterns.
+- Apply statistical methods to assess correlations between variables.
+- Build predictive models (e.g., linear regression, random forest, XGBoost) to predict mental health outcomes based on technology usage.
+
+## **Results & Insights**
+
+- The dataset allows for an in-depth analysis of how digital technology usage impacts mental health.  
+- By studying behavioral patterns such as screen time, social media usage, and gaming, we aim to identify areas where digital habits may be contributing to stress, poor sleep, or mental health issues.
+- Predictive models based on this data could provide valuable insights for developing mental health interventions or guidelines for healthier technology usage.
+
+## **License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## **Contact Information**
+
+For any queries, please contact:  
+**Sangita Das**  
+Email: dassangita844.com 
