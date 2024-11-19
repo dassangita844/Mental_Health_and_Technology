@@ -56,7 +56,7 @@ The dataset used for this study is publicly available on Kaggle and can be acces
 ### **Analysis Steps:**
 - Perform exploratory data analysis (EDA) to understand trends and patterns.
 - Apply statistical methods to assess correlations between variables.
-- Build predictive models (e.g., linear regression, random forest, XGBoost) to predict mental health outcomes based on technology usage.
+- Build predictive models (e.g., random forest, XGBoost, multinomial logistic regression and support vector machine) to predict mental health outcomes based on technology usage.
 
 ## **Results & Insights**
 
