@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 For any queries, please contact:  
 **Sangita Das**  
-Email: dassangita844.com 
+Email: dassangita844@gmail.com
