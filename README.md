@@ -73,3 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 For any queries, please contact:  
 **Sangita Das**  
 Email: dassangita844@gmail.com
+
+## **Acknowledgments**  
+Special thanks to Kaggle for providing the dataset and to R, a free statistical software package, for enabling the tools and frameworks used in this project through Google Colab.
